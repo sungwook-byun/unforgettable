@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f57a1d6d33a5c5499156e68b224a264, type: 3}
+  m_Name: MiniGameData 8
+  m_EditorClassIdentifier: Assembly-CSharp::MiniGameData
+  gamePrefab: {fileID: 1598412362410493335, guid: 79fe11af6a26ae54091966da64a99f1b, type: 3}
+  title: "\uD55C \uBD93 \uADF8\uB9AC\uAE30"
+  description: "\uACB9\uCE58\uC9C0 \uC54A\uACE0 \uBAA8\uB4E0 \uC120\uC744 \uD55C
+    \uBC88\uC5D0 \uC774\uC5B4 \uADF8\uB9AC\uB294 \uAC8C\uC784"
+  how: "\uD654\uBA74\uC5D0 \uBCF4\uC774\uB294 \uC810\uB4E4\uC744 \uC5F0\uACB0\uD574
+    \uB3C4\uC548 \uC804\uCCB4\uB97C \uD55C \uBC88\uC758 \uC120\uC73C\uB85C \uADF8\uB824\uBCF4\uC138\uC694.
+    \uC774\uBBF8 \uC9C0\uB098\uAC04 \uC120\uC740 \uB2E4\uC2DC \uAC08 \uC218 \uC5C6\uC5B4\uC694!"
+  sprite: {fileID: 21300000, guid: 62d79e425e7d66e45b692647dae0e16d, type: 3}
+  timeLimit: 60
+  countDown: 3

@@ -1,0 +1,30 @@
+[
+  {
+    "Str_Index": "ui_0001",
+    "KR_str": "이야기를 따라가다",
+    "EN_str": "Follow the Trail",
+    "DU_str": "Folge der Geschichte",
+    "TR_str": "Hikayeyi takip edin"
+  },
+  {
+    "Str_Index": "ui_0002",
+    "KR_str": "자유롭게 놀다",
+    "EN_str": "HangOut Freely",
+    "DU_str": "Zwanglos abhängen",
+    "TR_str": "Serbestçe Takılın"
+  },
+  {
+    "Str_Index": "ui_0003",
+    "KR_str": "조율하러 가기",
+    "EN_str": "Go for Tune",
+    "DU_str": "Zum Abstimmen",
+    "TR_str": "Ayar Yapmaya Git"
+  },
+  {
+    "Str_Index": "ui_0004",
+    "KR_str": "책갈피 닫기",
+    "EN_str": "Close the Bookmark",
+    "DU_str": "Das Lesezeichen schließen",
+    "TR_str": "Yer İmini Kapatın"
+  }
+]

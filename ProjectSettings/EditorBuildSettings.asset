@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/99_Resources/Plush_animal_pack_URP_HDRP/Scenes/Showcase.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/01_Scenes/SW/IntroScene.unity
+    guid: feae353797383b74d831f638e8e3c77d
+  - enabled: 1
+    path: Assets/01_Scenes/StartMainScene.unity
+    guid: 8aed618de350c46a88a70148a765a198
+  - enabled: 1
+    path: Assets/01_Scenes/SW/LoadingScene.unity
+    guid: 10c98a6d974d15645844247d156e087a
+  - enabled: 1
+    path: Assets/01_Scenes/SW/[Test] Grandma Room.unity
+    guid: 8140259080a38c246b4e997896d6d309
+  - enabled: 1
+    path: Assets/01_Scenes/FreePlayLobbyScene.unity
+    guid: 75a3111acfb8e8641ac97ad8e33976de
+  - enabled: 1
+    path: Assets/01_Scenes/FreePlayGameScene.unity
+    guid: 5e1df0ca44fac1043a0c92a98393a37c
+  - enabled: 1
+    path: Assets/01_Scenes/SW/[Test] Memory World.unity
+    guid: 8bfdf2aba0541cd4eb860af49a73259e
+  - enabled: 1
+    path: Assets/01_Scenes/RealInWorldScene.unity
+    guid: 279621ee086c55845b35521115f6d605
+  - enabled: 1
+    path: Assets/01_Scenes/SW/[Rope Test] Memory World.unity
+    guid: cfc9ace19bbb87d4493874e0fcc3b2a4
+  - enabled: 1
+    path: Assets/01_Scenes/PuzzleScenes/DevPuzzle3rd.unity
+    guid: a8e89fb99d65056409cc7dbddc6024b2
+  - enabled: 1
+    path: Assets/01_Scenes/KH/[Rope Test] Memory World_Day4.unity
+    guid: 365271ef72a8a4dfdaccb983466685ad
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

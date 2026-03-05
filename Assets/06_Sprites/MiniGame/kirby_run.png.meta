@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: f4b25214b755c2d4198e83a95e1131b0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kirby_run_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 217
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d1df0001cb1ee449b1d6aa02d4c926
+      internalID: 996940531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 222
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b670d41d43ab244bab0c23c8d49865d
+      internalID: -1603387549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_7
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 222
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495ad130e711cd4458f73eea974713ec
+      internalID: -2071181774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 222
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ee317844f17134e9a27dcf0baf9998
+      internalID: 2031635637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_56
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 80
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8e7c88e516de847b94a184264201e5
+      internalID: -541684354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_57
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 80
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b98bfc474f62274fa506083c332f80c
+      internalID: 1519721648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_58
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b577e58cdac83df419f32112d74a71da
+      internalID: 1743015714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_59
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 80
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd6b7a6021c98f4fb4a87e0c69f5c75
+      internalID: 524870842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_60
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 80
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59071183cde733744aadde97182c2da7
+      internalID: -1442718232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_61
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 80
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ce40e2e2b82fb4ab65ce7096473dc0
+      internalID: -732701240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_62
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 80
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aeea0cceaf5444596e90d0033c5c71
+      internalID: -1533704678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_63
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 80
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eb8af6bda7d7440b8c3e1b47280edb
+      internalID: 665678983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_75
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3db3ea97ebf1cf4098a7ea606a4d3f0
+      internalID: -1414216088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_76
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 5
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766ccd6d5802c834da4f77d4f464c3a2
+      internalID: -1911130432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_77
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 7
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2d894ff6140e942a219b7e6cc48119
+      internalID: -669047087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_78
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 6
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a71fff2c26281c40a1016ff0bc48722
+      internalID: -939973144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_79
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 6
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb75e55bd25db90438e0b0f994643f25
+      internalID: 1119253980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_80
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 7
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3f9540285e1454f95a327178759aa7
+      internalID: -2088362265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_81
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 7
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b4c74f4db47bb4fb775aed9b209681
+      internalID: -1367530964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_82
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 4
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5017f05e03e35cb47b7a1461359c5bd8
+      internalID: -484587823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_run_83
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 4
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02e4ed55d6a15446ae1120f4b84697b
+      internalID: 1528842973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: be5b69e90b6ef6e4c832d4209d22c052
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      kirby_run_0: 996940531
+      kirby_run_1: -804990288
+      kirby_run_10: 1847919527
+      kirby_run_11: -63455248
+      kirby_run_12: 1499138464
+      kirby_run_13: 1611942101
+      kirby_run_14: -1717395944
+      kirby_run_15: 947604609
+      kirby_run_16: 1472064504
+      kirby_run_17: -1057174926
+      kirby_run_18: -880859783
+      kirby_run_19: -764476575
+      kirby_run_2: -1927932140
+      kirby_run_20: 1154861616
+      kirby_run_21: 1310269282
+      kirby_run_22: -2048708713
+      kirby_run_23: 68370125
+      kirby_run_24: -468276336
+      kirby_run_25: 647960727
+      kirby_run_26: 1274038223
+      kirby_run_27: -503876367
+      kirby_run_28: -239298368
+      kirby_run_29: -21732851
+      kirby_run_3: -865231595
+      kirby_run_30: -2126088114
+      kirby_run_31: 413249515
+      kirby_run_32: 239339695
+      kirby_run_33: 1646983451
+      kirby_run_34: 1789271067
+      kirby_run_35: -1772656854
+      kirby_run_36: -1367012059
+      kirby_run_37: -43704300
+      kirby_run_38: -19060416
+      kirby_run_39: 364413893
+      kirby_run_4: -870885676
+      kirby_run_40: -1100229126
+      kirby_run_41: -1913594902
+      kirby_run_42: -1938700275
+      kirby_run_43: 850412523
+      kirby_run_44: 1755573581
+      kirby_run_45: -902094745
+      kirby_run_46: 1329919797
+      kirby_run_47: -2073376230
+      kirby_run_48: 328759503
+      kirby_run_49: -2122223288
+      kirby_run_5: -290710180
+      kirby_run_50: 1066746880
+      kirby_run_51: 1825994589
+      kirby_run_52: -90483199
+      kirby_run_53: 1873776524
+      kirby_run_54: -1638439264
+      kirby_run_55: -1522006826
+      kirby_run_56: -541684354
+      kirby_run_57: 1519721648
+      kirby_run_58: 1743015714
+      kirby_run_59: 524870842
+      kirby_run_6: -1603387549
+      kirby_run_60: -1442718232
+      kirby_run_61: -732701240
+      kirby_run_62: -1533704678
+      kirby_run_63: 665678983
+      kirby_run_64: 381926798
+      kirby_run_65: -783718571
+      kirby_run_66: 368813210
+      kirby_run_67: 818060116
+      kirby_run_68: 93947560
+      kirby_run_69: -1215266681
+      kirby_run_7: -2071181774
+      kirby_run_70: -1306763220
+      kirby_run_71: -786408040
+      kirby_run_72: 1282858988
+      kirby_run_73: -324361808
+      kirby_run_74: -1067729188
+      kirby_run_75: -1414216088
+      kirby_run_76: -1911130432
+      kirby_run_77: -669047087
+      kirby_run_78: -939973144
+      kirby_run_79: 1119253980
+      kirby_run_8: 2031635637
+      kirby_run_80: -2088362265
+      kirby_run_81: -1367530964
+      kirby_run_82: -484587823
+      kirby_run_83: 1528842973
+      kirby_run_84: -1105657876
+      kirby_run_85: 1003708049
+      kirby_run_86: 96098845
+      kirby_run_9: -813271009
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

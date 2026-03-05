@@ -1,0 +1,51 @@
+	
+--------------Worm 3D----------------------------
+
+This pack contains 3d Model and Animation's of a Realistic small Worm.Included low poly & high poly meshes.
+
+Technical Details:-
+				
+		- Vertex count : 370(High poly), 94(Low poly)
+		- Tris count : 736(High poly), 184(Low poly)
+		- Animations : 7 (Idle, Walk, Look, Hit/Death, Bulging, Anim1, Anim2)
+		- Texture Variations : 6
+		- Used Material(s) : Unity Standard Shader
+		- Texture maps : Albedo/Base Color, Normal Map
+		- Texture Size : 2048
+		- Prefabs : 6
+		- PBR Textures
+
+Features:-
+	- High poly & low poly meshes included
+	- Both high & low poly meshes has texture variations
+	- Smooth basic animations & Additional two animations(Anim1, 2)
+	- Script(C#) included(For spawning multiple Worms in different position)
+	- Textures comes in different styles
+	- Easy to change colors
+	- Mobile/AR Ready asset
+		
+Folder details:-
+
+	Materials : Where the materials for the model located.
+	
+	Meshes : Contain FBX format of the 3d model.
+	
+	Textures : Contains Textures, that are in (.PNG) file format
+	
+	(Other folders - Prefabs, Scenes)
+
+How to use:-
+	
+	Simply drag and drop the prefab to your scene and use it.
+	(Prefab(s) located under 
+	Asset > Worm3D > Prefabs).
+
+Note: Sphere colliders are attached to Worm's joint's.This can be used for interacting with physical world.
+
+..................................................................................
+
+About Us : "SR Studios Kerala", Game developing company located in Alappuzha, Kerala, India
+
+Contact : srstudioskerala@gmail.com
+
+................Thanks for downloading this package................................

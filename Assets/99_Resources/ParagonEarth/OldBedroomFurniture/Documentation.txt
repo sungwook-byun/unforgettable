@@ -1,0 +1,11 @@
+This project includes two shader graphs, "LampFresnel" and "Painting", accessible in the "ParagonEarth/Bedroom/Materials/ShaderGraphs" folder.
+The "LampFresnel" has a few variables exposed, namely the "Brightness", "Fresnel", "Color" and "Intensity" which are used to control the brightness of the lamp cover.
+
+The "Painting" material has a "Painting_Texture" exposed variable, use it to change the image of the painting and adjust the "Scale_FromCenter", "Panning" and "Contrast" variables so that it fits the frame.
+
+The "ParagonEarth/Bedroom/Textures/CC0_Painting_Examples" folder contains 3 example images licensed under the public domain found through these links:
+- https://www.artic.edu/artworks/876/october-day
+- https://www.artic.edu/artworks/111623/a-clump-of-trees
+- https://www.artic.edu/artworks/898/unfinished-study-of-sheep
+
+Support: paragonearth.info@gmail.com

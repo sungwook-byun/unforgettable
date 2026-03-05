@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f584e5fa74af6f348b0aa22a41365600, type: 3}
+  m_Name: MiniGameDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::MiniGameDatabase
+  miniGames:
+  - {fileID: 11400000, guid: 5392609576c86564da64629d52fb533d, type: 2}
+  - {fileID: 11400000, guid: 5cd2ebf8b4652d34590f468f179bd53f, type: 2}
+  - {fileID: 11400000, guid: bda3fa0fdb969f64abb848e74c6bd11b, type: 2}
+  - {fileID: 11400000, guid: 4b54760c1f7e07e479e668daf926201f, type: 2}
+  - {fileID: 11400000, guid: 4fd863ae76cc64e40ae6e4121340449e, type: 2}
+  - {fileID: 11400000, guid: f108cf42da5572845b1598ede62a6ccc, type: 2}
+  - {fileID: 11400000, guid: 3c922093a048fe54a995bd406f2698d4, type: 2}
+  - {fileID: 11400000, guid: 5f665f32af160cf49b35c8f262ad984b, type: 2}
+  - {fileID: 11400000, guid: 314d3611223e82140b7752b859759a8d, type: 2}
+  - {fileID: 11400000, guid: b87f476c4f4498b478cc7b41a373fa76, type: 2}

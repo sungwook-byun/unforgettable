@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 472c374afd6e512449e5a095b690ae4f, type: 3}
+  m_Name: GrandmaDialogue0
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueScriptable
+  speakers:
+  - speakerName: "\uD560\uBA38\uB2C8"
+    description: "\uD604\uC2E4 \uC18D \uC138\uACC4"
+    portrait: {fileID: 21300000, guid: 2e4199b657881004f9f2b78f8eedcd53, type: 3}
+  - speakerName: "\uC190\uC790"
+    description: "\uC8FC\uC778\uACF5"
+    portrait: {fileID: 21300000, guid: ec39ae7443554c74a9072a3c5e704272, type: 3}
+  - speakerName: "\uC2DC\uC2A4\uD15C"
+    description: "\uD29C\uD1A0\uB9AC\uC5BC"
+    portrait: {fileID: 0}
+  dialogues:
+  - speakerIndex: 0
+    dialogue: "\uC6B0\uB9AC \uC190\uC8FC \uC654\uB2C8...?"
+    typingSpeed: 0.05
+    customPortrait: {fileID: 0}
+    choices: []
+    isChoiceOnly: 0
+    nextDialogueIndex: -1
+    filterType: 0
+  - speakerIndex: 0
+    dialogue: "\uC9C0\uAE08 \uC815\uC2E0\uC774 \uC5C6\uC5B4\uC11C \uC7A0\uC2DC \uAE30\uB2E4\uB824
+      \uC904 \uC218 \uC788\uACA0\uB2C8?"
+    typingSpeed: 0.05
+    customPortrait: {fileID: 0}
+    choices: []
+    isChoiceOnly: 0
+    nextDialogueIndex: -1
+    filterType: 0
+  - speakerIndex: 1
+    dialogue: "\uADF8\uB7FC \uC7A0\uAE50 \uBC29 \uC880 \uAD6C\uACBD\uD574\uB3C4 \uB420\uAE4C\uC694?"
+    typingSpeed: 0.05
+    customPortrait: {fileID: 0}
+    choices: []
+    isChoiceOnly: 0
+    nextDialogueIndex: -1
+    filterType: 0
+  - speakerIndex: 0
+    dialogue: "\uD760... \uB531\uD788 \uB124\uAC00 \uC88B\uC544\uD560\uB9CC\uD55C
+      \uAC74 \uC5C6\uC9C0\uB9CC \uC0C1\uAD00\uC5C6\uB2E8\uB2E4."
+    typingSpeed: 0.05
+    customPortrait: {fileID: 0}
+    choices: []
+    isChoiceOnly: 0
+    nextDialogueIndex: -1
+    filterType: 0
+  - speakerIndex: 1
+    dialogue: "\uAC10\uC0AC\uD569\uB2C8\uB2E4."
+    typingSpeed: 0.05
+    customPortrait: {fileID: 0}
+    choices: []
+    isChoiceOnly: 0
+    nextDialogueIndex: -1
+    filterType: 0
+  - speakerIndex: 1
+    dialogue: "(\uC77C\uB2E8 \uC9D1\uC548 \uBB3C\uAC74\uC744 \uC0B4\uD3B4\uBCF4\uBA74\uC11C
+      \uC2DC\uAC04\uC744 \uB5BC\uC6B0\uC790.)"
+    typingSpeed: 0.05
+    customPortrait: {fileID: 0}
+    choices: []
+    isChoiceOnly: 0
+    nextDialogueIndex: -1
+    filterType: 0
+  - speakerIndex: 2
+    dialogue: "\uC0C1\uD638\uC791\uC6A9 \uAC00\uB2A5\uD55C \uC624\uBE0C\uC81D\uD2B8\uB294
+      \uB178\uB780\uC0C9 \uD14C\uB450\uB9AC\uB85C \uD45C\uC2DC\uAC00 \uB429\uB2C8\uB2E4."
+    typingSpeed: 0.05
+    customPortrait: {fileID: 0}
+    choices: []
+    isChoiceOnly: 0
+    nextDialogueIndex: -1
+    filterType: 0

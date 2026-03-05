@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2260241042849814082
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7706886662056670264}
+  m_Layer: 0
+  m_Name: example-sewing-machine-with-cloth
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7706886662056670264
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2260241042849814082}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5624282957515266589}
+  - {fileID: 3602085499146944663}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &7145505742734160756
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7706886662056670264}
+    m_Modifications:
+    - target: {fileID: 5968608917907026915, guid: 9f7bc043588ca29459c731bdf8d8c686,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5968608917907026915, guid: 9f7bc043588ca29459c731bdf8d8c686,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5968608917907026915, guid: 9f7bc043588ca29459c731bdf8d8c686,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5968608917907026915, guid: 9f7bc043588ca29459c731bdf8d8c686,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5968608917907026915, guid: 9f7bc043588ca29459c731bdf8d8c686,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5968608917907026915, guid: 9f7bc043588ca29459c731bdf8d8c686,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5968608917907026915, guid: 9f7bc043588ca29459c731bdf8d8c686,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5968608917907026915, guid: 9f7bc043588ca29459c731bdf8d8c686,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5968608917907026915, guid: 9f7bc043588ca29459c731bdf8d8c686,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5968608917907026915, guid: 9f7bc043588ca29459c731bdf8d8c686,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8622246362453787865, guid: 9f7bc043588ca29459c731bdf8d8c686,
+        type: 3}
+      propertyPath: m_Name
+      value: sewing-machine-cloth-1-blue-1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9f7bc043588ca29459c731bdf8d8c686, type: 3}
+--- !u!4 &3602085499146944663 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5968608917907026915, guid: 9f7bc043588ca29459c731bdf8d8c686,
+    type: 3}
+  m_PrefabInstance: {fileID: 7145505742734160756}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7553167175820842649
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7706886662056670264}
+    m_Modifications:
+    - target: {fileID: 2801038901081934980, guid: f38216719172c7c4c8d4d26f3a1323e2,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2801038901081934980, guid: f38216719172c7c4c8d4d26f3a1323e2,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2801038901081934980, guid: f38216719172c7c4c8d4d26f3a1323e2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2801038901081934980, guid: f38216719172c7c4c8d4d26f3a1323e2,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2801038901081934980, guid: f38216719172c7c4c8d4d26f3a1323e2,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2801038901081934980, guid: f38216719172c7c4c8d4d26f3a1323e2,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2801038901081934980, guid: f38216719172c7c4c8d4d26f3a1323e2,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2801038901081934980, guid: f38216719172c7c4c8d4d26f3a1323e2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2801038901081934980, guid: f38216719172c7c4c8d4d26f3a1323e2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2801038901081934980, guid: f38216719172c7c4c8d4d26f3a1323e2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7340590537810473490, guid: f38216719172c7c4c8d4d26f3a1323e2,
+        type: 3}
+      propertyPath: m_Name
+      value: sewing-machine-2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f38216719172c7c4c8d4d26f3a1323e2, type: 3}
+--- !u!4 &5624282957515266589 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2801038901081934980, guid: f38216719172c7c4c8d4d26f3a1323e2,
+    type: 3}
+  m_PrefabInstance: {fileID: 7553167175820842649}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 472c374afd6e512449e5a095b690ae4f, type: 3}
+  m_Name: PortalDialogue1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueScriptable
+  speakers:
+  - speakerName: "\uD3EC\uD0C8"
+    description: "\uCC22\uACA8\uC9C4 \uACF5\uAC04 \uC18D \uCC28\uC6D0"
+    portrait: {fileID: 0}
+  - speakerName: "\uC190\uC790"
+    description: "\uC8FC\uC778\uACF5"
+    portrait: {fileID: 0}
+  dialogues:
+  - speakerIndex: 0
+    dialogue: "\uB9C8\uCE58 \uC774 \uC21C\uAC04\uC744 \uAE30\uB2E4\uB838\uB2E4\uB294
+      \uB4EF \uACF5\uAC04\uC744 \uCC22\uC73C\uBA70, \uD478\uB978 \uBE5B\uC758 \uBE5B\uC774
+      \uB098\uD0C0\uB0AC\uB2E4."
+    typingSpeed: 0.05
+    customPortrait: {fileID: 0}
+    choices: []
+    isChoiceOnly: 0
+    nextDialogueIndex: -1
+    filterType: 0
+  - speakerIndex: 0
+    dialogue: "\uB3C4\uBB34\uC9C0 \uC774\uD574\uD560 \uC218 \uC5C6\uB294 \uAD11\uACBD\uC774\uC5C8\uC9C0\uB9CC
+      \uB0B4 \uC190\uC740 \uBCF8\uB2A5\uC801\uC73C\uB85C \uC55E\uC73C\uB85C \uB098\uC544\uAC14\uB2E4."
+    typingSpeed: 0.05
+    customPortrait: {fileID: 0}
+    choices: []
+    isChoiceOnly: 0
+    nextDialogueIndex: -1
+    filterType: 0
+  - speakerIndex: 1
+    dialogue: "\uC73D...!"
+    typingSpeed: 0.05
+    customPortrait: {fileID: 0}
+    choices: []
+    isChoiceOnly: 0
+    nextDialogueIndex: -1
+    filterType: 0
+  - speakerIndex: 0
+    dialogue: "(\uC190\uC774 \uB2FF\uC790, \uC815\uC2E0\uC774 \uC554\uC804\uB418\uB4EF
+      \uD55C\uC21C\uAC04\uC5D0 \uAEBC\uC84C\uB2E4...)"
+    typingSpeed: 0.05
+    customPortrait: {fileID: 0}
+    choices: []
+    isChoiceOnly: 0
+    nextDialogueIndex: -1
+    filterType: 0

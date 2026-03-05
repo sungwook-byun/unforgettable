@@ -1,0 +1,33 @@
+# ----- Ignore large Unity assets (portfolio repo) -----
+# Audio / Video
+Assets/**/Audio/
+Assets/**/Videos/
+Assets/**/Video/
+
+# Textures / Images
+Assets/**/Textures/
+Assets/**/Texture/
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.psd
+
+# 3D Models
+*.fbx
+*.obj
+*.blend
+
+# Fonts
+*.ttf
+*.otf
+Assets/**/Fonts/
+
+# Other large assets
+*.wav
+*.mp3
+*.mp4
+*.mov
+*.zip
+*.rar
+*.7z

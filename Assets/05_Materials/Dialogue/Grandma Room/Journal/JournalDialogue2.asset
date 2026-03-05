@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 472c374afd6e512449e5a095b690ae4f, type: 3}
+  m_Name: JournalDialogue2
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueScriptable
+  speakers:
+  - speakerName: "\uC190\uC790"
+    description: "\uC8FC\uC778\uACF5"
+    portrait: {fileID: 0}
+  - speakerName: "\uC77C\uC9C0"
+    description: "\uB9C8\uC9C0\uB9C9 \uB0A8\uACA8\uC9C4 \uAE30\uB85D"
+    portrait: {fileID: 0}
+  dialogues:
+  - speakerIndex: 1
+    dialogue: "\uC624\uB798\uB41C \uC77C\uAE30\uC7A5\uC774\uB2E4."
+    typingSpeed: 0.05
+    customPortrait: {fileID: 0}
+    choices: []
+    isChoiceOnly: 0
+    nextDialogueIndex: -1
+    filterType: 0
+  - speakerIndex: 0
+    dialogue: "\uD55C\uBC88 \uC368\uBCFC\uAE4C?"
+    typingSpeed: 0.05
+    customPortrait: {fileID: 0}
+    choices: []
+    isChoiceOnly: 0
+    nextDialogueIndex: -1
+    filterType: 0
+  - speakerIndex: 0
+    dialogue: "(\uC77C\uAE30\uB97C \uC791\uC131\uD574\uBCF4\uC790.)"
+    typingSpeed: 0.05
+    customPortrait: {fileID: 0}
+    choices: []
+    isChoiceOnly: 0
+    nextDialogueIndex: -1
+    filterType: 0

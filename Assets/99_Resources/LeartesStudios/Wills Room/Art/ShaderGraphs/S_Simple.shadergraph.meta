@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2ce014ea36c596047a8faeba243207cc
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263560
+  packageName: Will's Room Environment, Dormitory Room Environment
+  packageVersion: 1.0
+  assetPath: Assets/LeartesStudios/Wills Room/Art/ShaderGraphs/S_Simple.shadergraph
+  uploadId: 608612
